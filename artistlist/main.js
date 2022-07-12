@@ -70,33 +70,33 @@ artists[7].addEventListener('mouseleave', () => {
 
 //Redirect
 artists[0].addEventListener('click', () => {
-    window.location.href = "";
+    window.location.href = "./preview/?artist=flowg";
 });
 
 artists[1].addEventListener('click', () => {
-    window.location.href = "";
+    window.location.href = "./preview/?artist=kentu";
 });
 
 artists[2].addEventListener('click', () => {
-    window.location.href = "";
+    window.location.href = "./preview/?artist=kingpinus";
 });
 
 artists[3].addEventListener('click', () => {
-    window.location.href = "";
+    window.location.href = "./preview/?artist=ogalla";
 });
 
 artists[4].addEventListener('click', () => {
-    window.location.href = "";
+    window.location.href = "./preview/?artist=linax";
 });
 
 artists[5].addEventListener('click', () => {
-    window.location.href = "";
+    window.location.href = "./preview/?artist=lilmandres";
 });
 
 artists[6].addEventListener('click', () => {
-    window.location.href = "";
+    window.location.href = "./preview/?artist=ornestra";
 });
 
 artists[7].addEventListener('click', () => {
-    window.location.href = "";
+    window.location.href = "./preview/?artist=cozmoss";
 });
