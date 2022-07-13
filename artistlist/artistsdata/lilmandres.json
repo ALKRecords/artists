@@ -1,8 +1,8 @@
 {
-    "name": "FlowG",
-    "id": "7006f20e-59cf-477b-9c20-4afe74b9bc16",
-    "adding_date": "13/07/2022",
-    "songs_recorded": 0,
+    "name": "LilMandres",
+    "id": "92e494e1-4f33-4676-a17d-5ba18ad942ce",
+    "adding_date": "09/07/2022",
+    "songs_recorded": 1,
     "socials": {
         "instagram": "INSTAGRAM_LINK_GOES_HERE",
         "twitter": "TWITTER_LINK_GOES_HERE",
@@ -28,15 +28,15 @@
     "alkshort_link": "ALKSHORTNER_LINK_GOES_HERE",
     "songs":  [
         {
-            "title": "SONG_TITLE_GOES_HERE",
+            "title": "Y Qué",
             "release_date": "RELEASE_DATE_GOES_HERE",
-            "artists": ["ARTIST_1_NAME_GOES_HERE"],
-            "producer": "PRODUCER_NAME_GOES_HERE",
-            "mix": "MIXER_NAME_GOES_HERE",
-            "master": "MASTER_NAME_GOES_HERE",
+            "artists": ["LilMandres", "IXKarma"],
+            "producer": "ALKALINE",
+            "mix": "ALKRecords Mixing Team",
+            "master": "ALKRecords Mastering Team",
             "cover": "COVER_IMG_LINK_GOES_HERE",
-            "license": "LICENSE_GOES_HERE",
-            "lyrics": "LYRICS_LINK_GOES_HERE"
+            "license": "ALKRecords® and DobleAcheBeats",
+            "lyrics": "https://alkrecords.github.io/lyrics/view?a=lilmandres&song=yque"
         }
     ],
     "galery-links": ["IMG_1_GALLERY_LINK", "IMG_1_GALLERY_LINK", "IMG_1_GALLERY_LINK"]
