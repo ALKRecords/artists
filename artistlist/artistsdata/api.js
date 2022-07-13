@@ -175,7 +175,7 @@ const ogalla = {
 }
 
 const linax = {
-    "name": "LilLinax",
+    "name": "Linax",
     "id": "fe2c8930-0e69-4d0f-b245-92bddfad2f13",
     "adding_date": "15/07/2022",
     "songs_recorded": 0,
@@ -303,7 +303,7 @@ const ornestra = {
             "lyrics": "LYRICS_LINK_GOES_HERE"
         }
     ],
-    "galery-links": ["IMG_1_GALLERY_LINK", "IMG_1_GALLERY_LINK", "IMG_1_GALLERY_LINK"]
+    "galery-links": ["../../static/ornestra-pic.jpg", "IMG_1_GALLERY_LINK", "IMG_1_GALLERY_LINK"]
 }
 
 const cozmoss = {
@@ -347,5 +347,5 @@ const cozmoss = {
             "lyrics": "LYRICS_LINK_GOES_HERE"
         }
     ],
-    "galery-links": ["IMG_1_GALLERY_LINK", "IMG_1_GALLERY_LINK", "IMG_1_GALLERY_LINK"]
+    "galery-links": ["../../static/cozmoss-pic.jpg", "IMG_1_GALLERY_LINK", "IMG_1_GALLERY_LINK"]
 }
