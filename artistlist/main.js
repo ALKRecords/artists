@@ -70,33 +70,33 @@ artists[7].addEventListener('mouseleave', () => {
 
 //Redirect
 artists[0].addEventListener('click', () => {
-    window.location.href = "./preview/?artist=flowg";
+    window.location.href = "./preview/?artist=FlowG";
 });
 
 artists[1].addEventListener('click', () => {
-    window.location.href = "./preview/?artist=kentu";
+    window.location.href = "./preview/?artist=Kentu";
 });
 
 artists[2].addEventListener('click', () => {
-    window.location.href = "./preview/?artist=kingpinus";
+    window.location.href = "./preview/?artist=KingPinus";
 });
 
 artists[3].addEventListener('click', () => {
-    window.location.href = "./preview/?artist=ogalla";
+    window.location.href = "./preview/?artist=Ogalla";
 });
 
 artists[4].addEventListener('click', () => {
-    window.location.href = "./preview/?artist=linax";
+    window.location.href = "./preview/?artist=Linax";
 });
 
 artists[5].addEventListener('click', () => {
-    window.location.href = "./preview/?artist=lilmandres";
+    window.location.href = "./preview/?artist=LilMandres";
 });
 
 artists[6].addEventListener('click', () => {
-    window.location.href = "./preview/?artist=ornestra";
+    window.location.href = "./preview/?artist=Ornestra";
 });
 
 artists[7].addEventListener('click', () => {
-    window.location.href = "./preview/?artist=cozmoss";
+    window.location.href = "./preview/?artist=Cozmoss";
 });
